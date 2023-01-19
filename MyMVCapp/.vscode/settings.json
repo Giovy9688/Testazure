@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99ebad29-febe-428b-a95e-f4bd8ce9ab78/resourceGroups/TestAz900/subscriptions/99ebad29-febe-428b-a95e-f4bd8ce9ab78/resourceGroups/TestAz900/providers/Microsoft.Web/sites/TestAzureAccenture",
+    "appService.deploySubpath": "bin\\Publish"
+}

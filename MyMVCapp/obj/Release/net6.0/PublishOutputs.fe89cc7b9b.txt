@@ -1,0 +1,7 @@
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\MyMVCapp.exe
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\appsettings.Development.json
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\appsettings.json
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\MyMVCapp.dll
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\MyMVCapp.deps.json
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\MyMVCapp.runtimeconfig.json
+C:\Users\Giovanni\Accademy Cloud\Testazure\Testazure\MyMVCapp\bin\Publish\MyMVCapp.pdb
